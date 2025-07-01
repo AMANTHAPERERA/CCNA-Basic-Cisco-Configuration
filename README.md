@@ -26,7 +26,7 @@
 
 <br>
 
-### Router #1                                                                                                                             
+### COLOMBO Labled Router                                                                                                                            
 
  	Router>
     Router>enable
@@ -45,7 +45,7 @@
     configure terminal
     hostname COLOMBO
 
-### Router #2                                                                                                                            
+### KANDY Labled Router                                                                                                                            
 
  	Router>
     Router>enable
