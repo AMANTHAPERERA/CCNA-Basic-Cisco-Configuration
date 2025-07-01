@@ -25,17 +25,19 @@
 
 For host name configuration , I'm using following configuration commands on both routers.
 
-**Router #1   
-	   Router>
-    	Router>
- 	   Router>enable
- 	   Router#
- 	   Router#configure Terminal
- 	   	Enter configuration commands, one per line. End with CNTL/Z.
- 	   Router(config)#
- 	   Router(config)#
+**Router #1**
+
+
+
+**Router>
+ 	Router>enable
+ 	Router#
+ 	Router#configure Terminal
+ 	   Enter configuration commands, one per line. End with CNTL/Z.
+ 	 Router(config)#
+ 	Router(config)#
     	Router(config)#hostname COLOMBO
-    	COLOMBO(config)#**
+    	COLOMBO(config)#**       
 
 
 
