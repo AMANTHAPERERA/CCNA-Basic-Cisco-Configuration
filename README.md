@@ -55,7 +55,7 @@
     Router(config)#
     Router(config)#
     Router(config)#hostname KANDY
-    COLOMBO(config)#
+    KANDY(config)#
 
 
 ### Try it yourself
