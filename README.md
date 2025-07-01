@@ -1,2 +1,2 @@
 # CCNA-Basic-Cisco-Configuration
-Basic Cisco IOS configuration examples for CCNA practice, covering fundamental topics like routing, switching, password recovery, and network troubleshooting.
+### In this section I'm gonna configure Basic Cisco configuration using a Cisco router (In this practical I'm using Cisco 1841 Routers)
