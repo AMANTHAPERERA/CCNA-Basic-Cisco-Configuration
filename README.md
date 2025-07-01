@@ -7,7 +7,8 @@
 
 
 
-## Now I'm gonna split This task into below sections
+
+## Now I'm gonna split this task into below sections
 
 1. **Initial configuration { host name , MOTD banner (optional) }**
 2. **Adjusting date and time**
