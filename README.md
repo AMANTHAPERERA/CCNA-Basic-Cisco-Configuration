@@ -16,7 +16,7 @@
 
 <br>
 
-# 1. INITIAL CONFIGURATION
+# 1. Initial Configuration
  <br>
 
  ### Guess what?  Imagine we have a brand new / reset router to configure , then we have to do some essential configuration for over convenience .
