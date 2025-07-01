@@ -39,7 +39,7 @@
     COLOMBO(config)#
 
 
-### Copy & Paste
+### Try it yourself
     
     enable
     configure terminal
