@@ -25,10 +25,7 @@
  ### For host name configuration , I'm using following configuration commands on both routers.
 <br>
 
-
-**##Router #1**
-
-
+**## Router #1**
 
 **Router>**
  	**Router>enable**
@@ -38,8 +35,6 @@
  	 **Router(config)#**
  	**Router(config)#**
     	**Router(config)#hostname COLOMBO**
-    	**COLOMBO(config)#**       
-
-
+    	**COLOMBO(config)#**
 
 
