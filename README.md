@@ -29,15 +29,14 @@
 ### Router #1
 
  	Router>
- 	Router>
- 	Router>enable
- 	Router#
- 	Router#configure Terminal
- 		Enter configuration commands, one per line.  End with CNTL/Z. 
- 	Router(config)#
- 	Router(config)#
- 	Router(config)#hostname COLOMBO
- 	COLOMBO(config)#
+    Router>enable
+    Router#
+    Router#configure Terminal
+        Enter configuration commands, one per line.  End with CNTL/Z. 
+    Router(config)#
+    Router(config)#
+    Router(config)#hostname COLOMBO
+    COLOMBO(config)#
 
    
 
