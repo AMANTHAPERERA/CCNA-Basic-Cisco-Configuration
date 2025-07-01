@@ -45,6 +45,25 @@
     configure terminal
     hostname COLOMBO
 
+### Router #2                                                                                                                            
+
+ 	Router>
+    Router>enable
+    Router#
+    Router#configure Terminal
+        Enter configuration commands, one per line.  End with CNTL/Z. 
+    Router(config)#
+    Router(config)#
+    Router(config)#hostname KANDY
+    COLOMBO(config)#
+
+
+### Try it yourself
+    
+    enable
+    configure terminal
+    hostname KANDY
+
 
 
    
