@@ -7,7 +7,7 @@
 
 #### Now I'm gonna split This task into below sections
 
-1.**Initial configuration { host name , MOTD banner (optional) }**
-2.**Adjusting date and time**
-3.**Assigning IP addresses with a description**
-4.**Configuring  Passwords / Breaking Passwords / Recovering Passwords**
+1. **Initial configuration { host name , MOTD banner (optional) }**
+2. **Adjusting date and time**
+3. **Assigning IP addresses with a description**
+4. **Configuring  Passwords / Breaking Passwords / Recovering Passwords**
