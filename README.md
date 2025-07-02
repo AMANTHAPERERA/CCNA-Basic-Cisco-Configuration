@@ -1,7 +1,7 @@
 # **CCNA-Basic-Cisco-Configuration**
 <br>
 
-## In this task , I'm configuring basic Cisco configuration using  Cisco routers. (In this practical I'm using Cisco 1841 Routers)
+## In this task , I'm configuring basic Cisco configuration using  Cisco routers.(In this practical I'm using Cisco 1841 Routers)
 
 ### As the first step open the packet tracer and drag  2x Cisco 1841 routers to the screen and label them with your preference  (For now I'm labeling with **COLOMBO** and **KANDY**)
 
