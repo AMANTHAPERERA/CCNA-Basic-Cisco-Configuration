@@ -5,7 +5,7 @@
 
 ### As the first step open the packet tracer and drag  2x Cisco 1841 routers to the screen and label them with your preference  (For now I'm labeling with **COLOMBO** and **KANDY**)
 
-![Labling Routers](/images/labled-01.png)
+![Labling Routers](/images/lable.png)
 
 ## Now I'm gonna split this task into below sections<br>
 
