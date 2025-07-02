@@ -8,7 +8,7 @@
 <br>
 
 ![Labling Routers](/images/labled.png)
-<img src="image/labled.png" style="width:50%;">
+<img src="labled.png" style="width:50%;">
 
 
 <br>
