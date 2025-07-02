@@ -7,7 +7,7 @@
 
 <br>
 
-![Labling Routers](/images/labled.png)
+![Labling Routers](\images\labled.png)
 
 <br>
 
