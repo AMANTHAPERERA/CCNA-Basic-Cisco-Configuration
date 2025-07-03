@@ -70,6 +70,7 @@
 ### Imagine  in network admin hopes to resign and he want to aware the future network admin , about configuration details (Branches ) 
 ### or any important messages (Authorization -who can access or who cannot) of ongoing routers. 
 
+![Labling Routers](/images/banner1.png)
 
 
    
