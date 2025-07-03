@@ -71,7 +71,31 @@
 ### or any important messages (Authorization -who can access or who cannot) of ongoing routers. 
 
 ![banner](images/banner1.png)
-![banner](/images/banner2.png)
+
+### Any of them ( Im applying it on Colombo router )
+
+<br>
+    
+    COLOMBO>enable
+    COLOMBO#
+    COLOMBO#configure terminal
+    COLOMBO(config)#
+    COLOMBO(config)#banner motd #WELCOME TO COLOMBO#
+    COLOMBO(config)#
+
+<br>
+
+### Try with yourself
+
+<br>
+
+    enable
+    configure terminal
+    banner motd #WELCOME TO COLOMBO#
+
+<br>
+
+# 2. Adjusting Date & Time
 
 
    
