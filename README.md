@@ -70,8 +70,8 @@
 ### Imagine  in network admin hopes to resign and he want to aware the future network admin , about configuration details (Branches ) 
 ### or any important messages (Authorization -who can access or who cannot) of ongoing routers. 
 
-![banner](/images/banner1.png)
-![banner](/images/lable.png)
+![banner](images/banner1-01.png)
+![banner](/images/banner2.png)
 
 
    
