@@ -68,7 +68,7 @@
 ## MOTD Banner
 ### MOTD (message of the day) banner is a message that Used as a welcome message or used to aware us about important things. 
 ### Imagine  in network admin hopes to resign and he want to aware the future network admin , about configuration details (Branches ) 
-### or any important messages (Authorization -who can access) of ongoing routers. 
+### or any important messages (Authorization -who can access or who cannot) of ongoing routers. 
 
 
 
