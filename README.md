@@ -72,7 +72,7 @@
 
 ![banner](images/banner1.png)
 
-### Any of them ( Im applying it on Colombo router )
+### Any of them ( I'm applying it on Colombo router )
 
 <br>
     
@@ -96,6 +96,19 @@
 <br>
 
 # 2. Adjusting Date & Time
+### Eventhough date and time configuration ia an optional task  , that helps us in many occasions such as troubleshooting network device synchronizing accurate logging and much more.
+
+### Any of them (I'm applying it on Colombo router)
+
+    COLOMBO#clock set ?
+     hh:mm:ss  Current Time
+    COLOMBO#clock set 10:42:00 4 jul 2025
+
+
+### Try it yourself
+
+    COLOMBO#clock set hh:mm:ss Day Month Year
+    
 
 
    
