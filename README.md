@@ -105,9 +105,10 @@
     COLOMBO#clock set 10:42:00 4 jul 2025
 
 
-### Try it yourself
+### Try it yourself & Check
 
     COLOMBO#clock set hh:mm:ss Day Month Year
+    COLOMBO#show clock
     
 
 
