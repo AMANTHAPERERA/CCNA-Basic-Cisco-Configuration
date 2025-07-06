@@ -119,6 +119,27 @@
 ### Routing is one of the core concepts in networking. To understand routing and configure it properly, you must first understand what IP addresses are, 
 ### Why they are needed, and how they are assigned to interfaces. Without correct IP addressing, routing simply cannot work.
 ### Therefore, learning how to assign IP addresses is a crucial foundation before moving on to routing and more advanced network configurations.
+
+
+
+# 4. Passwords (Configuring/ Breaking / Recovering)
+
+## Im not trynna expain about why we need passwords. Lets dig in to types of passwords.
+
+### 1. Console Password
+### 2. Auxiliary Password
+### 3. Telnet Password
+### 4. Enable Password 
+### 5. Enable Secret 
+
+# 1. Console an Auxiliary Password
+
+
+
+
+
+
+
     
 
 
