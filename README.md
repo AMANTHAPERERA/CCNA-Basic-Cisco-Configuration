@@ -117,7 +117,7 @@
 ## Here’s the reason:
 
 ### Routing is one of the core concepts in networking. To understand routing and configure it properly, you must first understand what IP addresses are, 
-### why they are needed, and how they are assigned to interfaces. Without correct IP addressing, routing simply cannot work.
+### Why they are needed, and how they are assigned to interfaces. Without correct IP addressing, routing simply cannot work.
 ### Therefore, learning how to assign IP addresses is a crucial foundation before moving on to routing and more advanced network configurations.
     
 
