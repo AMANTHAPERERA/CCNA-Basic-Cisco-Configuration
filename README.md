@@ -140,6 +140,8 @@
 
 ### Both Console and Auxiliary passwords are used to secure direct access to the router through the console port or an auxiliary port. This prevents unauthorized people from physically connecting to the device or accessing it remotely over a dial line.
 
+# 2. Telnet Password 
+
 
 
 
