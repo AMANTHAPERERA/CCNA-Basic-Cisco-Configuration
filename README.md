@@ -149,6 +149,8 @@
 # 4. Enable Secret
 ### The Enable Secret is a more secure version of the Enable password.  It also controls access to privileged EXEC mode but is stored in the configuration file in an encrypted form. If both the enable password and enable secret are set, the enable secret always takes priority.
 
+# ⭐ Service password- Encryption  
+
 
 
 
