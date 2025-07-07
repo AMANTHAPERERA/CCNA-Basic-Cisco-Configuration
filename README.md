@@ -151,6 +151,9 @@
 
 ### ⭐ Service password- Encryption  
 
+**The Cisco IOS service password-encryption command is used to encrypt plain-text passwords in the device running configuration. Console, AUX, and VTY line passwords, by default, are stored in plain form and could easily be read if someone has access to the configuration file. Service password-encryption allows a simple, reversible type 7 encryption to be used on these passwords.
+While this gives some protection from random snooping, it is not cryptographically secure encryption — it only stops one from being able to easily read passwords in plain text. For greater security, use something stronger like enable secret (Type 5 hash) or SSH for remote access.**
+
 
 
 
