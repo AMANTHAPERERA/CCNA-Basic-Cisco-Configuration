@@ -124,7 +124,9 @@
 
 # 4. Passwords (Configuring/ Breaking / Recovering)
 
-## Im not trynna expain about why we need passwords. Lets dig in to types of passwords.
+# Configuration
+
+## Im not trynna explain about why we need passwords. Lets just dig in to types of passwords.
 
 ### 1. Console Password
 ### 2. Auxiliary Password
@@ -132,9 +134,11 @@
 ### 4. Enable Password 
 ### 5. Enable Secret 
 
-# 1. Console an Auxiliary Password
+<br>
 
+# 1. Console and Auxiliary Password
 
+### Both Console and Auxiliary passwords are used for physical port protection, such as preventing unauthorized devices from being plugged in and reducing the risk of man-in-the-middle attacks.
 
 
 
