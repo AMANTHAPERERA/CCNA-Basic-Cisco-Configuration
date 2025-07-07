@@ -141,17 +141,13 @@
 ### Both Console and Auxiliary passwords are used to secure direct access to the router through the console port or an auxiliary port. This prevents unauthorized people from physically connecting to the device or accessing it remotely over a dial line.
 
 # 2. Telnet Password 
-**###Telnet passwords are used to secure remote access to the device via the Telnet protocol.
-When someone connects to the router or switch using Telnet, they’re prompted for this password before they can access the CLI.**
+### Telnet passwords are used to secure remote access to the device via the Telnet protocol. When someone connects to the router or switch using Telnet, they’re prompted for this password before they can access the CLI.
 
 # 3. Enable Password
-**###The Enable password protects privileged EXEC mode (also called enable mode).
-After logging in through the console, AUX, or Telnet/SSH, a user must enter the enable password to run higher-level configuration commands.**
+### The Enable password protects privileged EXEC mode (also called enable mode). After logging in through the console, AUX, or Telnet/SSH, a user must enter the enable password to run higher-level configuration commands. 
 
 # 4. Enable Secret
-**###The Enable Secret is a more secure version of the Enable password.
-It also controls access to privileged EXEC mode but is stored in the configuration file in an encrypted form.
-If both the enable password and enable secret are set, the enable secret always takes priority.**
+### The Enable Secret is a more secure version of the Enable password.  It also controls access to privileged EXEC mode but is stored in the configuration file in an encrypted form. If both the enable password and enable secret are set, the enable secret always takes priority.
 
 
 
